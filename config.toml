@@ -2,3 +2,11 @@ baseURL = "https://example.org/"
 languageCode = "fr-fr"
 title = "Notes"
 theme = "ananke"
+
+SectionPagesMenu = "main"
+Paginate = 20
+enableRobotsTXT = false
+
+background_color_class = "bg-black"
+
+recent_posts_number = 2
